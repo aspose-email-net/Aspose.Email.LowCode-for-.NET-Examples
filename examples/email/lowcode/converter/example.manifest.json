@@ -1,0 +1,19 @@
+{
+  "scenario_id": "email-converter",
+  "package_id": "Aspose.Email",
+  "package_version": "26.4.0",
+  "target_framework": "net8.0",
+  "claimed_symbols": [
+    "Aspose.Email.LowCode.Converter",
+    "Aspose.Email.LowCode.Converter.Convert",
+    "Aspose.Email.LowCode.Converter.ConvertEmlOrMsg",
+    "Aspose.Email.LowCode.Converter.ConvertToEml",
+    "Aspose.Email.LowCode.Converter.ConvertToHtml",
+    "Aspose.Email.LowCode.Converter.ConvertToMht",
+    "Aspose.Email.LowCode.Converter.ConvertToMhtml",
+    "Aspose.Email.LowCode.Converter.ConvertToMsg"
+  ],
+  "status": "repaired",
+  "input_strategy": "programmatic_input",
+  "input_files": []
+}
